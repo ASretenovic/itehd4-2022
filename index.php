@@ -1,3 +1,6 @@
 <?php
-echo "Hello";
+
+    echo "Hello";
+    echo "<br> Druga linija";
+    
 ?>
